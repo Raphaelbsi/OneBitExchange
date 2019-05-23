@@ -20,9 +20,15 @@
         }
   
         .btn-exchange{
-          background-color: #5bc0de;
-          border-color: #5bc0de;
+          background-color: transparent;
+          border-color: transparent;
           border-radius: 0;
+        
+        }
+        .img-fluid-trade{
+          max-width: 50px;
+          height: 30px;
+          
         }
       }
     }
